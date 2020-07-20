@@ -24,7 +24,7 @@
     "colyseus": "^0.13.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "express-jwt": "5.3.3",
+    "express-jwt": "6.0.0",
     "parcel": "^1.12.4"
   }
 }
